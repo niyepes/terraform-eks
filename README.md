@@ -21,6 +21,10 @@ Al ejecutar este proyecto, se crean automáticamente los siguientes recursos en 
 
 - Integración completa entre red, seguridad e identidad para Kubernetes.
 
+### Arquitectura del proyecto
+
+<img src="Terraform EKS.drawio.svg" alt="Texto alternativo" width="600">
+
 ### 📂 Estructura del proyecto
 ```
 modules/
